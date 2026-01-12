@@ -4,8 +4,6 @@
 
 <head>
 
-&nbsp; <title>Coursera - C++ Programming Fundamentals</title>
-
 </head>
 
 <body>
@@ -30,11 +28,11 @@ This repository contains my lab programs and practice work from the
 
 <ul>
 
-&nbsp; <li>Track my learning progress</li>
+<li>Track my learning progress</li>
 
-&nbsp; <li>Practice C++ concepts hands-on</li>
+<li>Practice C++ concepts hands-on</li>
 
-&nbsp; <li>Build a public coding portfolio</li>
+<li>Build a public coding portfolio</li>
 
 </ul>
 
@@ -50,11 +48,11 @@ coursera-cpp-fundamentals/
 
 │
 
-├── Module1\_Intro\_Syntax/
-
-│   ├── hello\_world.cpp
-
-│   └── personal\_intro.cpp
+├── Module1_Intro_Syntax/
+    |
+│   ├── hello_world.cpp
+    |
+│   └── personal_intro.cpp
 
 │
 
@@ -68,15 +66,15 @@ coursera-cpp-fundamentals/
 
 <ul>
 
-&nbsp; <li>Basic program structure</li>
+<li>Basic program structure</li>
 
-&nbsp; <li>Input / Output</li>
+<li>Input / Output</li>
 
-&nbsp; <li>Compilation process</li>
+<li>Compilation process</li>
 
-&nbsp; <li>Code style \& formatting</li>
+<li>Code style \& formatting</li>
 
-&nbsp; <li>Problem-solving basics</li>
+<li>Problem-solving basics</li>
 
 </ul>
 
