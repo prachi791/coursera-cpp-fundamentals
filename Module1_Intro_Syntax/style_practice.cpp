@@ -1,4 +1,4 @@
-/* 
+/*
 * code before formatting practice
 * Starting with the poorly styled code 
 #include<iostream>
