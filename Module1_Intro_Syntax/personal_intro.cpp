@@ -47,7 +47,7 @@ int main(){
     
     std::cout << "- Instead of just watching tutorials, I want to learn through hands-on practice, write clean code, and understand how real programs are structured." << std::endl;
     
-    // My favorite programming concepts
+    // My favorite programming concepts in C++
 
     std::cout << "\nTOPICS I'M EXCITED ABOUT" << std::endl;
     std::cout << "------------------------------------" << std::endl;
@@ -60,7 +60,7 @@ int main(){
     // Closing message
     std::cout << "\nThank you for reading my introduction!" << std::endl;
     
-    // This is footer
+    // This is footer or end line
      std::cout << "====================================" << std::endl;
 
     return 0;
