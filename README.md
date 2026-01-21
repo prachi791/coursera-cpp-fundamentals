@@ -118,6 +118,10 @@ Currently working through course modules and updating this repository regularly.
 
 </p>
 
+<p>
+    Note: completed Module 1 on 21st jan 2026
+</p>
+
 
 
 </body>
