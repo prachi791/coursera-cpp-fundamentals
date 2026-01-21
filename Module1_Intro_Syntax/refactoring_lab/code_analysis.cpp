@@ -5,7 +5,7 @@ using namespace std;
 Issue 1:
 Line number(s): 4
 Problem:
-The class name 'a' is not meaningful and does not describe its purpose.
+The class name 'a' is not meaningful. Thus it does not describe its purpose.
 Impact:
 Makes the code hard to understand and reduces readability.
 
@@ -44,6 +44,6 @@ Code becomes long, complex, and hard to maintain.
 */
 
 int main(){
-    cout << "Program runs successfully!" << endl;
+    cout << "Program runs successfully!!" << endl;
     return 0;
 }
