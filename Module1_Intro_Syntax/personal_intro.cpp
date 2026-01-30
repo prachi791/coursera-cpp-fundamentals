@@ -61,7 +61,7 @@ int main(){
     std::cout << "\nThank you for reading my introduction!" << std::endl;
     
     // This is footer or end line
-     std::cout << "====================================" << std::endl;
+     std::cout << "=====================================" << std::endl;
 
     return 0;
 }
