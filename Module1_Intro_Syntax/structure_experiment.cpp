@@ -30,6 +30,6 @@ int main(){
     // mismatched braces
     // Error: expected '}' at end of input
     
-    cout<<"Hello, World!"<<endl;
+    cout << "Hello, World!" << endl;
     return 0;
 }
